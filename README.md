@@ -1,2 +1,2 @@
-# Graded-Assignment---Berka-Bank-Dataset-Data-Analysis
-Analysis of Synthetic Berka Bank Data
+# Final Assignment
+Data analysis and modeling based on synthetic data from the Czech Berka Bank
